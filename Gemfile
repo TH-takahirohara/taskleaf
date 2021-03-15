@@ -68,3 +68,4 @@ gem 'bootstrap'
 gem 'rails_autolink'
 
 gem 'ransack'
+gem 'sidekiq', '~> 5.0'
